@@ -1,1 +1,0 @@
-echo # My First Git Project > README.md
